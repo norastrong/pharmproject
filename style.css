@@ -1,0 +1,168 @@
+div#header {
+	border-style: dashed;
+	border-color:black;
+	background-color: rgba(59, 214, 252, 0.2);
+	color:black;
+	text-align:center;
+	padding:5px;
+	font-family: Bookman Old Style;
+}
+div#nav1 {
+	line-height:30px;
+	background-color: rgba(59, 214, 252, 0.2);
+	height:1500px;
+	width:175px;
+	float:left;
+	padding:5px;
+	font-family: Bookman Old Style;
+}
+div#nav2 {
+	line-height:30px;
+	background-color: rgba(59, 214, 252, 0.2);
+	height:1200px;
+	width:175px;
+	float:left;
+	padding:5px;
+	font-family: Bookman Old Style;
+}
+div#nav3 {
+	line-height:30px;
+	background-color: rgba(59, 214, 252, 0.2);
+	height:1000px;
+	width:175px;
+	float:left;
+	padding:5px;
+	font-family: Bookman Old Style;
+}
+div#navh {
+	line-height:30px;
+	background-color: rgba(59, 214, 252, 0.2);
+	height:700px;
+	width:175px;
+	float:left;
+	padding:5px;
+	font-family: Bookman Old Style;
+}
+div#section {
+	background-color:#25CAF3;
+	text-align:center;
+	padding:10px;
+	color:yellow;
+}
+div#footer {
+	background-color:rgba(59, 214, 252, 0.2);
+	color:black;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+div#imga {
+	float:right; 
+	padding: 20px;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color:rgba(59, 214, 252, 0.1);
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+div#imgb {
+	float:left;
+	padding:40px;
+	height: 623px;
+	width:180px;
+}
+	
+div#home1 {
+	font-size: 36px;
+	text-align:center;
+	font-weight: bold;
+	font-style: italic;
+}	
+	
+div#home2 {
+	font-size: 18px;
+	text-align:center;
+	font-weight: bold;
+	line-height: 1.5;
+}
+
+div#home3 { 
+	font-size: 16px;
+	text-align: center;
+	line-height: 1.5;
+	font-style: italic;
+}		
+	
+div#more1 {
+	margin-left: 20%;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 20px;
+}	
+	
+div#more2 {
+	margin-left: 25%;
+	font-size: 18px;
+}
+
+div#more3 {
+	margin-left: 20%;
+	font-weight: normal;
+	font-size: 20px;
+}
+	
+div#more4 {
+	margin-left: 20%;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 20px;
+}	
+	
+div#more {
+	font-size: 25px;
+}	
+
+
+a:link {
+	color:rgb(138, 4, 165);
+	text-decoration: none;
+}
+	
+a:visited {
+	color:pink;
+	text-decoration: none;
+}
+a:hover {
+	color:black;
+	text-decoration: underline;
+}
+a:active {
+	color:blue;
+	text-decoration: none;
+}
+ 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
